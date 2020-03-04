@@ -6,7 +6,7 @@ commands:
     description: Trivia for everyone!
     run: /ops/main
     sdk: "2"
-    sourceCodeURL: ""
+    sourceCodeURL: "https://github.com/cto-ai/trivia"
     mountCwd: false
     mountHome: false
     help:
