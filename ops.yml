@@ -2,7 +2,7 @@
 version: "1"
 commands:
   - name: trivia:0.1.0
-    public: false
+    public: true 
     description: Trivia for everyone!
     run: /ops/main
     sdk: "2"
