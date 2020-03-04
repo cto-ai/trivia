@@ -17,7 +17,7 @@ Find information about how to run and build Ops via the [Ops Platform Documentat
 To initiate the interactive trivia CLI prompt run:
 
 ```bash
-ops run trivia
+ops run cto.ai/trivia
 ```
 
 ## Local Development / Running from Source
