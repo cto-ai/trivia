@@ -198,7 +198,8 @@ func askQuestion(qa TriviaElement) {
 }
 
 func main() {
-
+	printLogo(client)
+	
 	qaPool := make(chan TriviaElement, 1)
 	go getRoutine(qaPool)
 
