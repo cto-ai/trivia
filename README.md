@@ -1,4 +1,4 @@
-![](https://github.com/cto-ai/trivia/raw/master/assets/banner.png)
+![](https://cto.ai/static/oss-banner.png)
 
 # trivia
 
